@@ -1,8 +1,0 @@
-1. Change Directory cd new_dir
-2. Create a Directory mkdir new_dir
-3. Rename a Directory mv new_dir old_dir
-4. List the contents of a directory ls
-5. Move a file to a new location mv test.txt ./new_dir
-6. Copy a file to a new location cp test.txt ./new_dir
-7. Search for a string in a file grep "hello" test.txt
-8. Access the shell of a remote machine ssh 127.0.0.1
